@@ -1,0 +1,13 @@
+file name - base64 (says - AreYouAnAudiophile)
+Change the extension to .wav/.mp3/etc
+Decode it
+
+code - DAMNITSNOVEMBERALREADY  (Speed: 7WPM / Tone: 950Hz)
+
+$ steghide extract -sf STEG_O_SAURS.jpg
+Enter passphrase:DAMNITSNOVEMBERALREADY
+wrote extracted data to "flag.txt".
+
+
+
+https://steghide.sourceforge.net/documentation.php
